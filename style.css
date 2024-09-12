@@ -111,3 +111,10 @@ main{
     padding-bottom: 20px;
     color: white;
 }
+
+@media (min-width:375) and (max-width:768){
+    main{
+        margin: 0;
+        width: 100%;
+    }
+}
