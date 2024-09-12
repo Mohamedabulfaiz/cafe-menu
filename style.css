@@ -1,0 +1,51 @@
+body{
+    background-color:gray;
+}
+.logo-section{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.logo-section img{
+    width:3%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo-section p{
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+}
+main{
+    margin:20px 250px;
+}
+.top-image img{
+    width: 100%;
+}
+
+.coffee-menu{
+    text-align: center;
+    background-color: white;
+    color: rgb(245, 209, 174);
+    padding: 20px;
+
+}
+.coffee-table{
+    padding-top: 10px;
+    width: 100%;
+    color: black;
+    border-collapse: collapse;
+    margin: 10px auto;
+    text-align: left;
+
+}
+.coffee-menu th{
+    background-color: rgb(179, 173, 167);
+    text-align: left;
+}
+.coffee-even{
+    background-color: rgb(236, 230, 225);
+}
