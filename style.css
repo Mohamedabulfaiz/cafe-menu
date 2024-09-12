@@ -123,6 +123,9 @@ main{
         display: inline-block;
         vertical-align: middle;
     }
+    body{
+        width: 100%;
+    }
     main{
         margin: 0;
         width: 100%;
