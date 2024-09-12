@@ -133,6 +133,7 @@ main{
     .container{
         display: block;
         width: 100%;
+        align-items: stretch;
     }
     .container img{
         width: 95%;
