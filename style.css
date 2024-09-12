@@ -117,4 +117,7 @@ main{
         margin: 0;
         width: 100%;
     }
+    .foot p{
+       margin: 0;  
+    }
 }
