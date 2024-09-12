@@ -130,6 +130,11 @@ main{
         margin: 0;
         width: 100%;
     }
+    .container img{
+        justify-content: center;
+        width: 85%;
+        margin-top: 5px;
+    }
     .foot p{
        margin: 0;  
     }
