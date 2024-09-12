@@ -112,7 +112,7 @@ main{
     color: white;
 }
 
-@media (min-width:375) and (max-width:768){
+@media (min-width:375px) and (max-width:801px){
     main{
         margin: 0;
         width: 100%;
