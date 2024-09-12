@@ -57,7 +57,7 @@ main{
     color: rgb(170, 127, 72);;
     text-align: center;
     color: rgb(170, 127, 72);;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 
 }
 .container{
@@ -69,7 +69,7 @@ main{
    justify-content: center;
    width: 85%;
    margin-left: 20px;
-   margin-top: 5px;
+   margin-top: px;
 
 }
 .container p{
@@ -130,14 +130,21 @@ main{
         margin: 0;
         width: 100%;
     }
+    .container{
+        display: block;
+        width: 100%;
+    }
     .container img{
-        width: 70%;
-        margin: 10px 20px;
-
+        width: 95%;
+        margin-left: 10px;
+        margin-right: 0;
+    }
+    .container p{
+         font-size: 1.3rem;
 
     }
     .foot p{
-       margin: 0;  
+       margin: 8px 10px;  
     }
     .foot hr{
         width: 50%;
