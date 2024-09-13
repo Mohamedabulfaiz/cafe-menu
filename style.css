@@ -112,7 +112,7 @@ main{
     color: white;
 }
 
-@media (min-width:345px) and (max-width:912px){
+@media (min-width:320px) and (max-width:912px){
     .logo-section{
         text-align: center;
         margin-bottom: 20px;
